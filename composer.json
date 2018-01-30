@@ -1,0 +1,17 @@
+{
+  "name": "heimrichhannot-contao-components/imagesloaded",
+  "description": "A shim repositoy for imagesloaded as contao component.",
+  "type": "contao-component",
+  "license": "LGPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Heimrich & Hannot",
+      "email": "digitales@heimrich-hannot.de",
+      "homepage": "http://www.heimrich-hannot.de",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "contao-components/installer": "^1.0"
+  }
+}
