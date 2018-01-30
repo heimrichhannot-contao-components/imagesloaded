@@ -13,6 +13,6 @@ composer require heimrichhannot-contao-components/imagesloaded
 Update Library:
 
 ```
-svn export https://github.com/desandro/imagesloaded.git/trunk/imagesloaded.pkgd.min.js --force
-svn export https://github.com/desandro/imagesloaded.git/trunk/imagesloaded.pkgd.js --force
+svn export https://github.com/desandro/imagesloaded.git/trunk/imagesloaded.pkgd.min.js ./dist --force
+svn export https://github.com/desandro/imagesloaded.git/trunk/imagesloaded.pkgd.js ./dist --force
 ```
