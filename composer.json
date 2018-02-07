@@ -3,6 +3,14 @@
   "description": "A shim repositoy for imagesloaded as contao component.",
   "type": "contao-component",
   "license": "MIT",
+  "keywords": [
+    "contao",
+    "contao-component",
+    "masonry",
+    "imagesloaded",
+    "shim",
+    "javascript"
+  ],
   "authors": [
     {
       "name": "Heimrich & Hannot",

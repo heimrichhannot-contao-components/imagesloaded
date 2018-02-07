@@ -11,6 +11,23 @@ Shim repository for [imagesLoaded](https://github.com/desandro/imagesloaded) as 
 composer require heimrichhannot-contao-components/imagesloaded
 ```
 
+
+## Config
+
+Add the following to your config (keep keys to prevent double integration):
+
+### Contao 4
+
+```
+$GLOBALS['TL_JAVASCRIPT']['huh_components_imagesloaded'] = 'assets/masonry/imagesloaded.pkgd.min.js|static';
+```
+
+### Contao 3
+```
+$GLOBALS['TL_JAVASCRIPT']['huh_components_imagesloaded'] = 'assets/components/masonry/imagesloaded.pkgd.min.js|static';
+```
+
+
 ## Internal
  
 Update Library:
